@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Root Checker</string>
+
+    <string name="action_settings">Exit</string>
+    <string name="title_root_info">Root Info</string>
+    <string name="title_build_info">Build Info</string>
+    <string name="title_about_root">About Root</string>
+    <string name="share">share</string>
+
+    <string name="more">free apps</string>
+    <string name="share_text">Hey, I found an app that lets me verify root/super user access and busy box. Try this awesome app - https://play.google.com/store/apps/details?id=com.root.rootcheck</string><string name="share_subject" />
+    <string name="banner_ad_unit_id">ca-app-pub-6553884734105254/7805868654</string>
+
+    <style name="AppTheme1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
